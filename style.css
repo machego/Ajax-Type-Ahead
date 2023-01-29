@@ -34,7 +34,7 @@ input.search {
   text-align: center;
   outline: 0;
   background-color: whitesmoke;
-  border: 10px solid rgb(222, 219, 219);
+  /*border: 10px solid rgb(222, 219, 219);*/
   width: 120%;
   left: -10%;
   position: relative;
