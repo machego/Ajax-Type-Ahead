@@ -1,0 +1,66 @@
+[
+    {
+        "planet": "Mercury", 
+        "radius": "2,440.53", 
+        "moons": "0", 
+        "distance": "57,909,175", 
+        "rank": "1", 
+        "color": "grey"
+    }, 
+    {
+        "planet": "Venus", 
+        "radius": "6,051.8", 
+        "moons": "0", 
+        "distance": "108,208,930", 
+        "rank": "2", 
+        "color": "yellow"
+    }, 
+    {
+        "planet": "Earth", 
+        "radius": "6,378.1366", 
+        "moons": "1", 
+        "distance": "149,597,890", 
+        "rank": "3", 
+        "color": "blue"
+    },
+    {
+        "planet": "Mars", 
+        "radius": "3,396.19", 
+        "moons": "2", 
+        "distance": "227,936,640", 
+        "rank": "4", 
+        "color": "red"
+    }, 
+    {
+        "planet": "Jupiter", 
+        "radius": "71,492", 
+        "moons": "92", 
+        "distance": "778,412,010", 
+        "rank": "5", 
+        "color": "orange"
+    },
+    {
+        "planet": "Saturn", 
+        "radius": "60,268", 
+        "moons": "83", 
+        "distance": "1,426,725,400", 
+        "rank": "6", 
+        "color": "gold"
+    }, 
+    {
+        "planet": "Uranus", 
+        "radius": "25,559", 
+        "moons": "27", 
+        "distance": "2,870,972,200", 
+        "rank": "7", 
+        "color": "greenblue"
+    },
+    {
+        "planet": "Neptun", 
+        "radius": "24,764", 
+        "moons": "14", 
+        "distance": "4,498,252,900", 
+        "rank": "8", 
+        "color": "blue"
+    }
+]
